@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginSQLite</string>
+    <string name="emptyString" />
+
+</resources>
